@@ -1,0 +1,11 @@
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\bin\Debug\netcoreapp2.1\PhoneC#.deps.json
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\bin\Debug\netcoreapp2.1\PhoneC#.runtimeconfig.json
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\bin\Debug\netcoreapp2.1\PhoneC#.runtimeconfig.dev.json
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\bin\Debug\netcoreapp2.1\PhoneC#.dll
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\bin\Debug\netcoreapp2.1\PhoneC#.pdb
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\obj\Debug\netcoreapp2.1\PhoneC#.csprojAssemblyReference.cache
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\obj\Debug\netcoreapp2.1\PhoneC#.csproj.CoreCompileInputs.cache
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\obj\Debug\netcoreapp2.1\PhoneC#.AssemblyInfoInputs.cache
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\obj\Debug\netcoreapp2.1\PhoneC#.AssemblyInfo.cs
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\obj\Debug\netcoreapp2.1\PhoneC#.dll
+C:\Users\13143\Desktop\C#\C#OOP\PhoneC#\obj\Debug\netcoreapp2.1\PhoneC#.pdb
