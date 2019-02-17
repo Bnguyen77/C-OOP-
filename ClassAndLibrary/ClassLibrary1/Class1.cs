@@ -1,19 +1,15 @@
 ﻿using System;
 
-namespace PlayGround
+namespace ClassLibrary1
 {
     public class Calculation
     {
-        /// <summary>
-        /// OPERATOR OVERLOAD-- Object with multiple contructor can do multiple functionality.
-        /// </summary>
-
-        public Calculation()// constructor with pre-define value (***)
+        public Calculation()// constructor with pre-define value
         {
             _number1 = 20;
             _number2 = 5;
         }
-        public Calculation(int number1, int number2) //constructor that expect 2 values (%%%)
+        public Calculation(int number1, int number2) //constructor that expect 2 values
         {
             _number1 = number1;
             _number2 = number2;
@@ -40,23 +36,23 @@ namespace PlayGround
             get { return _number1 + _number2; }
         }
 
-        public int addition(int number1, int number2) //Method (***)
+        public int addition(int number1, int number2) //Method
         {
             return number1 + number2;
         }
 
-        public int addition()//MEthod with no input values(%%%)
+        public int addition()
         {
             return _number1 + _number2;
         }
 
-
-        public int subtraction(int number1, int number2) //Method (***)
+        public int subtraction(int number1, int number2) //Method
         {
             return number1 - number2;
         }
 
-        public int subtraction()//MEthod with no input values(%%%)
+
+        public int subtraction()
         {
             return _number1 - _number2;
         }
